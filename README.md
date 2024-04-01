@@ -5,5 +5,5 @@ In this notebook, simple Diffusion Model has been built for generating car image
 Building the Diffusion Model
 - Step 1: The forward process = Noise scheduler
 - Step 2: The backward process = U-Net
-- Step 3: The loss
+- Step 3: The loss 
   
